@@ -1,0 +1,4 @@
+c:\users\yasir\documents\visual studio 2010\Projects\webServiceStrategy\webServiceStrategy\bin\webServiceStrategy.dll
+c:\users\yasir\documents\visual studio 2010\Projects\webServiceStrategy\webServiceStrategy\bin\webServiceStrategy.pdb
+c:\users\yasir\documents\visual studio 2010\Projects\webServiceStrategy\webServiceStrategy\obj\Debug\webServiceStrategy.dll
+c:\users\yasir\documents\visual studio 2010\Projects\webServiceStrategy\webServiceStrategy\obj\Debug\webServiceStrategy.pdb
